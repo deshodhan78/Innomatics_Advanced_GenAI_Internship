@@ -1,5 +1,5 @@
 """
-LangChain Core Examples using Groq (Fast & Cheap) - 2026
+LangChain Core Examples using Groq 
 """
 
 import os
